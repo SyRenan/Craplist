@@ -9,11 +9,3 @@
 ||r8---sn*^$important
 ||r9---sn*^$important
 ||r10---sn*^$important
-||rr3---sn*^$important
-||rr4---sn*^$important
-||rr5---sn*^$important
-||rr6---sn*^$important
-||rr7---sn*^$important
-||rr8---sn*^$important
-||rr9---sn*^$important
-||rr10---sn*^$important
