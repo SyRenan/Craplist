@@ -4,3 +4,7 @@
 !
 ||www.googleadservices.com^$important
 ||pagead.l.doubleclick.net^$important
+!
+! Xiaomi
+!
+||gamebird-gtglobal.intl.miui.com
